@@ -13,6 +13,7 @@
 		861D9B84262D48800093A092 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 861D9B83262D48800093A092 /* Preview Assets.xcassets */; };
 		861D9B8F262D48800093A092 /* iExpenseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861D9B8E262D48800093A092 /* iExpenseTests.swift */; };
 		861D9B9A262D48800093A092 /* iExpenseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 861D9B99262D48800093A092 /* iExpenseUITests.swift */; };
+		86AE55B8262E9CFE00B6E9A9 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AE55B7262E9CFE00B6E9A9 /* AddView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		861D9B95262D48800093A092 /* iExpenseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iExpenseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		861D9B99262D48800093A092 /* iExpenseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iExpenseUITests.swift; sourceTree = "<group>"; };
 		861D9B9B262D48800093A092 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86AE55B7262E9CFE00B6E9A9 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				861D9B7C262D487D0093A092 /* iExpenseApp.swift */,
 				861D9B7E262D487D0093A092 /* ContentView.swift */,
+				86AE55B7262E9CFE00B6E9A9 /* AddView.swift */,
 				861D9B80262D48800093A092 /* Assets.xcassets */,
 				861D9B85262D48800093A092 /* Info.plist */,
 				861D9B82262D48800093A092 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				861D9B7F262D487D0093A092 /* ContentView.swift in Sources */,
 				861D9B7D262D487D0093A092 /* iExpenseApp.swift in Sources */,
+				86AE55B8262E9CFE00B6E9A9 /* AddView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
